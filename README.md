@@ -7,5 +7,6 @@ ImageProcessing Class
 
 <p>
   [Homework3 Result Image]
+  <br/>
   <img src="https://github.com/user-attachments/assets/41f9099f-f6c8-4047-a260-66f4a494cd46" />
 </p>
