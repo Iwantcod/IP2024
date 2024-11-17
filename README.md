@@ -7,6 +7,8 @@ ImageProcessing Class
 
 <p>[Homework4 Result Video Link]: <a href="https://youtu.be/1FCdC9B4JF8" target="_blank" />https://youtu.be/1FCdC9B4JF8</p>
 
+<p>[Homework5 Result Video Link]: <a href="https://youtu.be/uX64kdrQY1w" target="_blank" />https://youtu.be/uX64kdrQY1w</p>
+
 <p>
   [Homework3 Result Image]
   <br/>
